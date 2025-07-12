@@ -1,6 +1,6 @@
 from burp import IBurpExtender, IHttpListener, ITab, IExtensionStateListener, IContextMenuFactory
 from threading import Thread, Timer, Semaphore
-from time import time
+from time import tim
 from javax.swing.table import DefaultTableCellRenderer
 from javax.swing.filechooser import FileNameExtensionFilter
 from java.awt import Toolkit
